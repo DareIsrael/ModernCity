@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ModernCity/static/css/main.57b51966.css",
+    "main.js": "/ModernCity/static/js/main.57d7cc6b.js",
+    "index.html": "/ModernCity/index.html",
+    "main.57b51966.css.map": "/ModernCity/static/css/main.57b51966.css.map",
+    "main.57d7cc6b.js.map": "/ModernCity/static/js/main.57d7cc6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b51966.css",
+    "static/js/main.57d7cc6b.js"
+  ]
+}
